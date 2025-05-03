@@ -1,7 +1,6 @@
 // Dynamically load latest blog posts
 const posts = [
   { title: "My Research on Quantum Systems", link: "post/post-1.html", date: "April 20, 2025" },
-  { title: "My Research on Quantum Systems", link: "post/post-1.html", date: "April 20, 2025" },
 ];
 
 function loadPosts(containerId) {
